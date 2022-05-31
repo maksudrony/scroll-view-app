@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scroll App</string>
+    <string name="textview">
+        <b>Welcome to Paladins,</b> the free-to-play fantasy team-based shooter sensation! Join over 30 million players to become a legendary Champion of the Realm, customizing your core set of abilities to play exactly how you want to play.\n
+        Knife-wielding assassins, Abyssal demons, and time-travelling soldiers - Paladins features over 40 playable Champions across 4 unique roles.\n
+Ancient Goddess. Interstellar bounty hunter. Cutthroat pirate. Frost giant. You can be all of these and more in Paladins. Choose from hundreds of skins already available in Paladins or find a new favorite in each update.\n
+
+ No matter what your playstyle is, you’ll find it in Paladins. With Paladins’ deckbuilding system, you can become an iron sights sniper, a grenade-slinging explosives expert, or a track star with an assault rifle – all as the same Champion. Choose from dozens of cards to customize your abilities and make each Champion your own.\n
+        The PC version of Paladins can be downloaded through Steam, Discord and Epic Games. The console versions can be acquired for free through their respective online stores: Microsoft Store and PlayStation Store. The game is now also available on the Nintendo Switch: Nintendo eShop. \n
+
+
+Cross-play and cross-progression were implemented with the release of the 2.2 update allowing players from PC, Xbox, and Nintendo Switch to play together. With the release of the 2.7 update PS4 players could also join the fight with Cross-play. For more information about this implementation, you can access the FAQ page here.
+</string>
+</resources>
